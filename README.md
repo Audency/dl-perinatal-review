@@ -1,8 +1,25 @@
-# Predictive Modelling of Stillbirth and Neonatal Mortality in Sub-Saharan Africa
-
-## Multicountry Analysis — Classical, Machine Learning and AI Models
+# Perinatal & Child Health Research
 
 **Victor et al. | London School of Hygiene and Tropical Medicine (LSHTM)**
+
+This repository contains code, outputs and published papers from research on perinatal and child health outcomes.
+
+---
+
+## Paper 1 — Implications for Newborn and Child Growth Classification
+
+**Vesel L, Victor A, et al. (BJOG 2026)**
+*Implications for Newborn and Child Growth Classification Using INTERGROWTH-21st and WHO Child Growth Standards*
+
+Evidence on implications of using global growth standards across populations (LIFE dataset).
+
+- `papers/implications/` — Published paper (PDF), supplementary evidence (S3), tables and figures
+
+---
+
+## Paper 2 — Predictive Modelling of Stillbirth and Neonatal Mortality in Sub-Saharan Africa
+
+### Multicountry Analysis — Classical, Machine Learning and AI Models
 
 TRIPOD/PROBAST-aligned systematic review and multicountry predictive modelling analysis.
 
@@ -36,13 +53,19 @@ This repository contains the code and outputs for a systematic review and predic
 
 ```
 .
+├── papers/
+│   └── implications/                     # BJOG 2026 — Growth Standards
+│       ├── BJOG_2026_Vesel_*.pdf         # Published paper
+│       ├── S3_Evidence_*.docx            # Supplementary evidence (Audencio)
+│       ├── S3_Supplementary_Tables.docx  # Supplementary tables
+│       └── S3_Supplementary_Figures.docx # Supplementary figures
 ├── notebooks/
-│   └── SSA_Perinatal_Proto.ipynb    # Main analysis notebook (Colab-ready)
+│   └── SSA_Perinatal_Proto.ipynb         # Main analysis notebook (Colab-ready)
 ├── outputs/
 │   └── paper/
-│       └── global/                  # Published figures and summary tables
+│       └── global/                       # Published figures and summary tables
 ├── figures/
-│   └── DeepLearning_Architectures*  # Architecture diagrams
+│   └── DeepLearning_Architectures*       # Architecture diagrams
 ├── .gitignore
 └── README.md
 ```
