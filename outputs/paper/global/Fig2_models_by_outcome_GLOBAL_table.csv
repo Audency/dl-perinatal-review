@@ -1,0 +1,31 @@
+model_group,model_label,outcome_list,n,total
+AI,Artificial Neural Network (ANN),Neonatal death,5,10
+AI,Artificial Neural Network (ANN),Stillbirths,5,10
+AI,Convolutional Neural Network (CNN),Neonatal death,1,1
+AI,Deep Neural Network (DNN),Stillbirths,2,2
+AI,Feedforward Neural Network (FFNN),Stillbirths,1,1
+AI,Multilayer Perceptron (MLP),Neonatal death,1,6
+AI,Multilayer Perceptron (MLP),Stillbirths,5,6
+AI,TabPFN,Stillbirths,1,1
+Classical,Generalized Linear Model (GLM),Neonatal death,1,1
+Classical,Logistic regression (LR),Neonatal death,31,63
+Classical,Logistic regression (LR),Stillbirths,32,63
+ML,AdaBoost,Stillbirths,4,4
+ML,CatBoost,Neonatal death,1,4
+ML,CatBoost,Stillbirths,3,4
+ML,Decision Tree (DT),Neonatal death,8,22
+ML,Decision Tree (DT),Stillbirths,14,22
+ML,Extreme Gradient Boosting (XGBoost),Neonatal death,5,15
+ML,Extreme Gradient Boosting (XGBoost),Stillbirths,10,15
+ML,Gradient Boosting (GB),Neonatal death,5,15
+ML,Gradient Boosting (GB),Stillbirths,10,15
+ML,K-Nearest Neighbours (KNN),Neonatal death,4,10
+ML,K-Nearest Neighbours (KNN),Stillbirths,6,10
+ML,LightGBM (LGBM),Neonatal death,2,4
+ML,LightGBM (LGBM),Stillbirths,2,4
+ML,Naive Bayes (NB),Neonatal death,1,7
+ML,Naive Bayes (NB),Stillbirths,6,7
+ML,Random Forest (RF),Neonatal death,15,36
+ML,Random Forest (RF),Stillbirths,21,36
+ML,Support Vector Machine (SVM),Neonatal death,8,21
+ML,Support Vector Machine (SVM),Stillbirths,13,21

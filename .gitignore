@@ -1,0 +1,24 @@
+# Data files - sensitive/raw
+*.csv
+!outputs/paper/global/*_table.csv
+!outputs/paper/global/country_counts_*.csv
+
+# Debug files
+DEBUG_*
+
+# Environment
+.env
+*.db
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large files
+*.parquet
+*.h5
+*.pkl
+*.joblib

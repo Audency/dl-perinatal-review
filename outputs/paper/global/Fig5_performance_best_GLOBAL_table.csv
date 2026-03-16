@@ -1,0 +1,96 @@
+study_uid,study,author_year_std,outcome_std,model_group_best,auc_best,auprc_best,acc_best,sens_best,spec_best,prec_best,npv_best,f1_best,brier_best
+1,"Development and validation of a
+risk score to predict neonatal
+mortality among NICU
+admissions in Southern Ethiopia:
+a retrospective follow-up study","Adane, et al. 2025",Neonatal death,Classical,0.796,NA,NA,0.8,0.66,NA,NA,NA,NA
+2,Predictive analysis on the factors associated with birth Outcomes: A machine learning perspective,"Adebanji, et al. 2024",Stillbirths,AI,0.9,NA,NA,0.9959,NA,NA,NA,NA,NA
+3,Predicting stillbirth and identifying key maternal risk factors using machine learning,Aga 2025,Stillbirths,ML,0.94,NA,0.95,NA,NA,NA,NA,NA,NA
+4,Predicting early and late neonatal mortality using machine learning models in Oman,Al Mashrafi et al. 2025,Neonatal death,AI,0.8652,0.85,NA,0.85,NA,NA,NA,NA,0.1836
+5,A prediction model for stillbirth based on first trimester pre-eclampsia combined screening,"Al-Fattah, et al. 2024",Stillbirths,Classical,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6,External validation of prognostic models to predict stillbirth using International Prediction of Pregnancy Complications (IPPIC) Network database: individual participant data meta-analysis,"Allotey, et al. 2022",Stillbirths,Classical,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7,Artificial intelligence-driven predictive framework for early detection of still birth,"Alzakari, et al. 2024",Stillbirths,AI,0.9887999999999999,NA,0.9791,0.9826,NA,0.9787,NA,0.9804999999999999,NA
+8,Prediction of stillbirth in women with overweight or obesity—A register-based cohort study,"ÅmarkI, et al. 2018",Stillbirths,Classical,0.69,NA,NA,0.28,0.9,NA,NA,NA,NA
+9,Hybridized neural networks for non-invasive and continuous mortality risk assessment in neonates,"Baker, et al. 2021",Neonatal death,AI,0.9336,0.8397336,NA,0.8397336,NA,0.8397336,NA,NA,NA
+10,Neonatal mortality prediction with routinely collected data: a machine learning approach,"Batista, et al. 2021",Neonatal death,AI,0.971,NA,NA,NA,NA,0.729,NA,0.548,NA
+11,Predicting perinatal mortality based on maternal health status and health insurance service using homogeneous ensemble machine learning methods,"Bogale D.S., et al. 2022",Stillbirths,ML,NA,NA,0.9024,0.9972,NA,0.8724,NA,0.9279999999999999,NA
+12,Interpretable Predictive Models to Understand Risk Factors for Maternal and Fetal Outcomes,"Bosschieter, et al 2023",Stillbirths,AI,0.73,NA,NA,NA,NA,NA,NA,NA,NA
+13,Using fetal abdominal circumference growth velocityin the prediction of adverse outcome in near-termsmall-for-gestational-age fetuses,"Cavallaro, et al 2017",Stillbirths,Classical,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14,Identifying risk of stillbirth using machine learning,"Cersonkey, et al. 2023",Stillbirths,AI,0.851,NA,NA,0.852,0.8490000000000001,NA,NA,NA,NA
+15,Prediction of Adverse Outcomes in De Novo Hypertensive Disorders of Pregnancy: Development and Validation of Maternal and Neonatal Prognostic Models,"Chen, et al. 2022",Neonatal death,AI,0.984,NA,NA,NA,NA,NA,NA,NA,NA
+16,Can artificial intelligence-augmented fetal monitoring prevent intrapartum stillbirth and neonatal death in a low-income setting: An observational study?,"Chiweza, et al. 2024",Stillbirth + Neonatal death,Other,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17,Clinical characteristics of neonatal cholestasis in a tertiary hospital and the development of a novel prediction model for mortality,"Choi, et al 2022",Neonatal death,Classical,0.903,NA,NA,NA,NA,NA,NA,NA,0.072
+18,A machine learning approach to predict mortality and neonatal persistent pulmonary hypertension in newborns with congenital diaphragmatic hernia. A retrospective observational cohort study,"Conte,et al. 2025",Neonatal death,ML,0.87,NA,0.95,0.87,NA,NA,NA,NA,NA
+19,"Postoperative neonatal mortality prediction using
+superlearning","Cooper, et al 2018",Neonatal death,ML,0.89,NA,NA,NA,NA,NA,NA,NA,NA
+20,Major trauma in pregnancy: prediction of maternal and perinatal adverse outcomes,"Dalton, et al 2023",Perinatal mortality,Classical,0.99,NA,NA,0.92,NA,NA,NA,NA,NA
+21,Prediction of neonatal death in pregnant women in an intensive care unit: Application of machine learning models,"Espinola-Sánchez, et al. 2023",Neonatal death,ML,0.98,NA,NA,0.98,0.98,NA,NA,NA,NA
+22,Adverse pregnancy outcomes in women with systemic lupus erythematosus: can we improve predictions with machine learning?,"Fazzari, et al. 2022",Other,AI,0.78,NA,NA,NA,NA,NA,NA,NA,NA
+23,Adverse pregnancy outcomes in women with systemic lupus erythematosus: can we improve predictions with machine learning?,"Fazzari, et al. 2022",Neonatal death,AI,0.78,NA,NA,NA,NA,NA,NA,NA,NA
+24,"Cross-validated prediction model for
+severe adverse neonatal outcomes in a
+term, non-anomalous, singleton cohort","Flatley, et al. 2019",Neonatal death,Other,0.71,NA,NA,NA,NA,NA,NA,NA,NA
+25,"Comparison of three classes of Marginal Risk Set Model in predicting infant mortality among newborn babies at Kigali University Teaching Hospital, Rwanda, 2016","Gatabazi, et al. 2020",Neonatal death,Other,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26,Predicting Adverse Perinatal Outcomes in Dichorionic Twin Pregnancies: A Multicentre Cohort Study,"Giorgione, et al. 2025",Stillbirths,Classical,0.9,NA,NA,NA,NA,NA,NA,NA,NA
+27,The Application of Machine Learning Models to Predict Stillbirths,"Gunenc, et al. 2025",Stillbirths,AI,0.99,NA,0.963,0.972,NA,NA,NA,NA,NA
+28,Prediction of neonatal outcomes using gestational age vs ACOG definitions of maternal disease severity in hypertensive disorders of pregnancy,"Hauptman, et al. 2025",Neonatal death,Classical,0.82,NA,NA,NA,NA,NA,NA,NA,NA
+29,"A prediction model for neonatal mortality in low- and middle-income countries: an analysis of data from population surveillance sites in India, Nepal and Bangladesh","Houweling, et al. 2019",Neonatal death,Classical,0.83,NA,NA,NA,NA,NA,NA,NA,NA
+30,First-trimester predictive models for adverse pregnancy outcomes—a base for implementation of strategies to prevent cardiovascular disease development,"Hromadnikova, et al 2024",Other,Classical,0.967,NA,NA,0.9167000000000001,1,NA,NA,NA,NA
+31,First-Trimester Screening for Miscarriage or Stillbirth—Prediction Model Based on MicroRNA Biomarkers,"Hromadnikova, et al. 2023",Stillbirths,Classical,0.992,NA,NA,0.9375,0.326,NA,NA,NA,NA
+32,A nomogram to predict in-hospital mortality of neonates admitted to the intensive care unit,"Huang, et al. 2021",Neonatal death,Other,0.865,NA,NA,NA,NA,NA,NA,NA,NA
+33,Construction of a risk prediction model for adverse pregnancy outcomes in primipara with gestational diabetes mellitus combined with pregnancy-induced hypertension syndrome,"Huang, et al. 2025",Stillbirths,Classical,0.821,NA,NA,NA,NA,NA,NA,NA,NA
+34,Predictive Decision Support Analytic Model for Intelligent Obstetric Risks Management,"Inyang, et al 2021",Stillbirths,AI,NA,NA,0.982,NA,NA,NA,NA,NA,NA
+35,Impact of Cross-Validation on Machine Learning Models for Early Detection of Intrauterine Fetal Demise,"Kaliappan, et al. 2023",Stillbirths,AI,NA,NA,0.99,0.98,NA,0.96,NA,0.97,NA
+36,Proposing a machine-learning based method to predict stillbirth before and during delivery and ranking the features: nationwide retrospective cross-sectional study,"Khatibi, et al. 2021",Stillbirths,ML,0.9,NA,0.9056000000000001,0.91,0.88,NA,NA,NA,NA
+37,Predicting risk of stillbirth and preterm pregnancies with machine learning.,"Koivu, et al. 2020",Stillbirths,AI,0.76,NA,NA,NA,NA,NA,NA,NA,NA
+38,Developing a predictive model for stillbirth risk using machine learning algorithms,"Kuanakewinyoo, et al 2025",Stillbirths,AI,0.86,NA,0.8220000000000001,0.8029999999999999,NA,0.8340000000000001,NA,NA,NA
+39,Predicting adverse pregnancy outcome in Rwanda using machine learning techniques,"Kubahoniyesu, et al. 2024",Stillbirths,AI,0.842,NA,NA,0.97,NA,0.89,NA,NA,NA
+40,Predicting mortality risk for preterm infants using random forest,"Lee, et al. 2021",Other,ML,0.93,NA,0.88,NA,NA,NA,NA,NA,NA
+41,Interpretable Machine Learning for Predicting Adverse Pregnancy Outcomes in Gestational Diabetes: Retrospective Cohort Study,"Li, et al. 2025",Stillbirths,ML,0.82,NA,0.856,0.578,0.9590000000000001,NA,NA,NA,NA
+42,A nomogram prediction model for early death in patients with persistent pulmonary hypertension of the newborn,"Lin, et al. 2022",Neonatal death,Classical,0.737,NA,NA,NA,NA,NA,NA,NA,NA
+43,"Stillbirth risk prediction using machine learning for a large cohort of births from Western Australia, 1980–2015","Malacov, et al. 2020",Stillbirths,AI,NA,NA,NA,0.45299999999999996,NA,0.0481,NA,NA,NA
+44,Prediction of stillbirth from biochemical and biophysical markers at 11–13 weeks,"Mastrodima, et al. 2016",Stillbirths,Classical,NA,NA,NA,NA,NA,NA,NA,NA,NA
+45,Prediction of perinatal death using machine learning models: A birth registry-based cohort study in northern Tanzania,"Mboya I.B., et al. 2020",Stillbirths,AI,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46,A Bayesian Network model of pregnancy outcomes for England and Wales,"McLachlan, et al. 2025",Stillbirths,Other,NA,NA,NA,NA,NA,NA,NA,NA,NA
+47,Machine learning for preventing stillbirths: is it possible to transform data into life-saving insights?,"Mello, et al. 2025",Other,ML,NA,NA,NA,0.6773,0.8106,NA,NA,NA,NA
+48,Construction of a Prediction Model for Adverse Perinatal Outcomes in Foetal Growth Restriction Based on a Machine Learning Algorithm: A Retrospective Study,"Meng, et al. 2025",Perinatal mortality,AI,0.861,NA,NA,NA,NA,NA,NA,NA,NA
+49,Visualization of Risk Factors and Predictive Models for Early Death of Neonatal Gastric Perforation,"Mengying, et al. 2024",Other,Classical,0.828,NA,NA,0.8,0.769,NA,NA,NA,NA
+50,Prediction of fetal death in monochorionic twin pregnancies complicated by Type-III selective fetal growth restriction,"Mieghem, et al. 2022",Other,ML,0.61,NA,NA,NA,NA,NA,NA,NA,NA
+51,Prediction Analysis of Preterm Neonates Mortality using Machine Learning Algorithms via Python Programming,"Monfared, et al. 2023",Neonatal death,ML,NA,NA,NA,NA,NA,NA,NA,0.915,NA
+52,The Role of Artificial Intelligence in Predicting Intrauterine Fetal Demise: A Case-Control Study,"Narayan, et al. 2025",Other,AI,0.94,NA,0.9209999999999999,0.9,NA,NA,NA,NA,NA
+53,Predicting adverse birth outcome among childbearing women in Sub-Saharan Africa: employing innovative machine learning techniques,"Ngusie, et al. 2024",Stillbirths,ML,0.95,NA,0.88,NA,NA,NA,NA,NA,NA
+54,"Development and validation of risk prediction models for adverse maternal and neonatal outcomes in severe preeclampsia in a low-resource setting, Mpilo Central Hospital, Bulawayo, Zimbabwe.","Ngwenya, et al. 2021",Stillbirth + Neonatal death,Classical,0.902,NA,NA,0.877,0.792,NA,NA,NA,NA
+55,Identification of the Best Predictive Model for Mortality in Outborn Neonates—Retrospective Cohort Study,"Ognean, et al 2023",Neonatal death,Classical,NA,NA,NA,NA,NA,NA,NA,NA,NA
+56,Machine-learning-based evaluation of the usefulness of lactate for predicting neonatal mortality in preterm infants,"Oh, et al. 2025",Neonatal death,ML,0.811,NA,0.893,NA,NA,NA,NA,NA,NA
+57,"Prediction of pregnancy outcomes in women with systemic lupus
+erythematosus before pregnancy: Application of machine
+learning models","Paydar, et al. 2025",Other,ML,0.96,NA,0.935,0.938,0.929,0.97,NA,NA,NA
+58,Predicting mortality and length-of-stay for neonatal admissions to private hospital neonatal intensive care units: a Southern African retrospective study,"Pepler, et al. 2012",Neonatal death,Classical,0.8507,NA,NA,NA,NA,NA,NA,NA,NA
+59,Prediction of perinatal mortality in early-onset fetal growth restriction: A post hoc analysis of the Dutch STRIDER trial to predict perinatal mortality in early-onset fetal growth restriction,"Prins, et al. 2025",Stillbirth + Neonatal death,Classical,0.84,NA,NA,NA,NA,NA,NA,NA,NA
+60,Predictors of adverse perinatal outcomes in fetal growth restriction using a combination of maternal clinical factors and simple ultrasound parameter,"Punyapet, et al. 2023",Perinatal mortality,Classical,0.799,NA,NA,NA,NA,NA,NA,NA,NA
+61,Reducing inequalities using an unbiased machine learning approach to identify births with the highest risk of preventable neonatal deaths,"Ramos, et al. 2025",Neonatal death,AI,NA,NA,NA,NA,NA,NA,NA,NA,NA
+62,On the interpretability of the SVM model for predicting infant mortality in Bangladesh,"Sayeed, et al.  2024",Neonatal death,ML,0.678,NA,0.9105,0.0949,NA,NA,NA,NA,NA
+63,"Development, Validation and Clinical Utility of a Risk Prediction Model for Maternal and Neonatal Adverse Outcomes in Pregnant Women with Hypothyroidism","Shao, et al. 2024",Stillbirths,Classical,0.845,NA,NA,NA,NA,NA,NA,NA,NA
+64,Prediction of neonatal deaths in NICUs: development and validation of machine learning models,"Sheikhtaheri, at al. 2021",Neonatal death,AI,0.98,NA,0.94,0.95,NA,NA,NA,NA,NA
+65,Predictive Modeling for Perinatal Mortality in Resource-Limited Settings,"Shukla, et al. 2020",Stillbirth + Neonatal death,AI,0.8,NA,NA,NA,NA,NA,NA,NA,NA
+66,Prediction of adverse pregnancy outcomes using machine learning techniques: evidence from analysis of electronic medical records data in Rwanda,"Sylvain, M.H. 2025",Stillbirths,ML,0.85,NA,0.9059999999999999,0.465,NA,NA,NA,NA,NA
+67,Predictive model and determinants of odds of neonates dying within 28 days of life in Ghana,"Takramah, et al. 2021",Neonatal death,Classical,0.818,NA,NA,NA,NA,NA,NA,NA,NA
+68,Predictive model and determinants of odds of neonates dying within 28 days of life in Ghana,"Takramah, et al. 2021",Neonatal death,Classical,0.818,NA,NA,NA,NA,NA,NA,NA,NA
+69,Nomogram to predict risk of neonatal mortality among preterm neonates admitted with sepsis at University of Gondar Comprehensive Specialized Hospital: risk prediction model development and validation,"Tesfie, et al. 2024",Neonatal death,Classical,0.9670000000000001,NA,0.905,0.905,0.9059999999999999,NA,NA,NA,0.07
+70,Development and validation of an algorithm to predict stillbirth gestational age in Medicaid billing records,"Thai, et al. 2025",Stillbirths,ML,NA,NA,NA,NA,NA,NA,NA,NA,NA
+71,Predicting the Risk of Stillbirth for Small Infants Using Maternal and Pregnancy Characteristics,"Triggs, et al. 2025",Stillbirths,Classical,NA,NA,NA,NA,NA,NA,NA,NA,NA
+72,Evaluation of Pregnancy Risks in Women with Subchorionic Hematoma Using Machine Learning Models,"Wang, et al. 2024",Stillbirths,ML,0.858,NA,NA,NA,NA,NA,NA,NA,NA
+73,Prediction of fetal loss in Chinese pregnant patients with systemic lupus erythematosus: a retrospective cohort study,"Wu, et al. 2019",Stillbirth + Neonatal death,Classical,0.829,NA,NA,0.605,0.9329999999999999,NA,NA,NA,NA
+74,Predicting pregnancy loss and its determinants among reproductive-aged women using supervised machine learning algorithms in sub-Saharan Africa.,"Yehuala, et al. 2025",Stillbirths,ML,NA,NA,0.98,0.77,NA,0.98,NA,NA,NA
+75,Prediction of stillbirth from maternal demographic and pregnancy characteristics,"Yerlikya, et al. 2016",Stillbirths,Classical,NA,NA,NA,NA,NA,NA,NA,NA,NA
+76,Externally validated nomogram for predicting short-term pregnancy outcome of singleton pregnancies with fetal growth restriction (FGR),"Yin, et al. 2024",Other,Classical,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77,Predicting adverse outcomes in pregnant patients positive for SARS-CoV-2: a machine learning approach- a retrospective cohort study,"Young, et al. 2023",Stillbirths,ML,0.9,NA,0.89,0.85,NA,0.94,NA,0.89,NA
+78,Infant death prediction using machine learning: A population-based retrospective study,"Zhang, et al. 2023",Neonatal death,AI,0.98,NA,NA,NA,NA,NA,NA,NA,NA
+79,A nomogram for predicting adverse perinatal outcome with fetal growth restriction: a prospective observational study,"Zhao, et al. 2025",Perinatal mortality,Classical,0.87,NA,NA,NA,NA,NA,NA,NA,NA
+80,Comparison of machine learning and logistic regression as predictive models for adverse maternal and neonatal outcomes of preeclampsia: A retrospective study,"Zheng, et al. 2022",Stillbirth + Neonatal death,AI,0.967,NA,NA,NA,NA,NA,NA,NA,NA
+81,AI-based analysis of fetal growth restriction in a prospective obstetric cohort quantifies compound risks for perinatal morbidity and mortality and identifies previously unrecognized high risk clinical scenarios,"Zimmerman, et al. 2025",Stillbirth + Neonatal death,Classical,0.83,NA,NA,NA,NA,NA,NA,NA,NA
+82,"Cohort profile of the ICMR-Stillbirth 
+Pooled India Cohort (ICMR-SPIC): 
+estimating prevalence, analysing risk 
+factors and developing prediction 
+models for stillbirths in India","Mukherjee, et al. 2025",Stillbirths,ML,NA,NA,NA,NA,NA,NA,NA,NA,NA
